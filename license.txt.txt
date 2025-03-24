@@ -1,0 +1,26 @@
+======================================================================
+                        LICENSE AGREEMENT
+======================================================================
+
+By installing and using this software, you agree to the terms and conditions set forth in this license agreement.
+
+Software Name: Unique Data
+Version: 1.0
+
+License Author: Adem Ruda
+Website: [Your Website]
+
+This software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+1. You are granted a non-exclusive, non-transferable license to install and use this software on your devices.
+2. You may not reverse engineer, decompile, or disassemble the software.
+3. Redistribution of the software or its components is prohibited without prior written permission from the author.
+4. The author is not responsible for any damages, losses, or issues caused by using this software.
+
+For inquiries or support, contact:
+Adem Ruda
+[Your Email]
+
+======================================================================
+                           END OF LICENSE
+======================================================================
